@@ -22,7 +22,7 @@ while i < len(user_string):  # loops while characters exist to be converted
 print("\nAlternate Characters:\t{}".format(alternate_characters)) 
 
 
-# functionality two - converting alternating wrods
+# functionality two - converting alternating words
 
 split_words = user_string.split()  # splits original string into a list
 alternate_words = []               # empty list to hold converted words

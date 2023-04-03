@@ -26,7 +26,7 @@ print("\nAlternate Characters:\t{}".format(alternate_characters))
 
 split_words = user_string.split()  # splits original string into a list
 alternate_words = []               # empty list to hold converted words
-
+ 
 j = 0
 while j < len(split_words):  # loops while words exist to be converted
     

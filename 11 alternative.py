@@ -1,5 +1,5 @@
 # task 11 - string handling
-# purpose- alternates capital characters and words in a given string
+# purpose - alternates capital characters and words in a given string
 
 user_string = input("Enter a string:\t\t")  # prompts user for a string
 

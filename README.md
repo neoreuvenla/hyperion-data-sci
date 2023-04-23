@@ -8,6 +8,8 @@
   <img src="https://media.licdn.com/dms/image/C4D0BAQHpevQvs8LmdQ/company-logo_200_200/0/1669891735209?e=1690416000&v=beta&t=38urfUIvs3AOtsJx4vjFsLwWd7YG9QzG5ZG_CAtqJr4" alt="HyperionDev Logo" />
 </p>
 
+&emsp;
+
 <h1 align="center">HyperionDev Data Science Bootcamp</h1>
 
 A repository to hold the completed coding exercises from the Hyperion Data Science bootcamp. Content included Python, Data Exploration, Data Visualisation, Data Analysis, Machine Learning, NLP, and Git.

@@ -1,4 +1,5 @@
-# code calculates the cost of a holiday from user inputs using functions
+# task 14 - defining functions
+# calculates the cost of a holiday from user inputs using functions
 
 seperator_string = "---------------------------------------------------"  # decorate outputs
 destination_cities = ["London", "Madrid", "Tokyo"]  # available cities

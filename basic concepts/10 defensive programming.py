@@ -1,3 +1,4 @@
+# task 9 - defensive programming
 # code offers users basic calculation functions or retrieval  of previous calculations
 
 # global variable used to format certain outputs for clarity

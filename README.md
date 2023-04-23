@@ -10,10 +10,6 @@
 
 <h1 align="center">HyperionDev Data Science Bootcamp</h1>
 
-
-
-
-## **Overview**
 A repository to hold the completed coding exercises from the Hyperion Data Science bootcamp. Content included Python, Data Exploration, Data Visualisation, Data Analysis, Machine Learning, NLP, and Git.
 
 ## **Repository Contents**

@@ -1,15 +1,8 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C4D0BAQHpevQvs8LmdQ/company-logo_200_200/0/1669891735209?e=1690416000&v=beta&t=38urfUIvs3AOtsJx4vjFsLwWd7YG9QzG5ZG_CAtqJr4" alt="HyperionDev Logo" />
 </p>
+<h1 align="center">HyperionDev Data Science Bootcamp</h1>
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block;font-size:2em;font-weight:bold;border:none;">HyperionDev Data Science Bootcamp</h1>
-</div>
-
-<p align="center">
-<h1 style="display:inline-block;font-size:2em;font-weight:bold;border:none">HyperionDev Data Science Bootcamp</h1>
-</p>
-<h1 align="center">Best-README-Template</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3F74A1?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /><img src="https://img.shields.io/badge/GitHub-313131?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /><img src="https://img.shields.io/badge/Markdown-E65000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><img src="https://img.shields.io/badge/VS_Code-0097E7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
 </p>
@@ -18,6 +11,9 @@
 
 ## **Overview**
 A repository to hold the completed coding exercises from the Hyperion Data Science bootcamp. Content included Python, Data Exploration, Data Visualisation, Data Analysis, Machine Learning, NLP, and Git.
+
+
+
 #
 
 ## **Table of Contents**

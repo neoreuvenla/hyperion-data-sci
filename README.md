@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3F74A1?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /><img src="https://img.shields.io/badge/Markdown-E65000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><img src="https://img.shields.io/badge/VS_Code-0097E7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
+<img src="https://img.shields.io/badge/Python-3F74A1?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /><img src="https://img.shields.io/badge/Jupyter Notebook-FE7D37?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge" /><img src="https://img.shields.io/badge/Markdown-E65000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><img src="https://img.shields.io/badge/VS_Code-0097E7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
 
 <br><br>
 
@@ -32,3 +32,6 @@ A repository to hold the completed coding exercises from the Hyperion Data Scien
 - [**Data Handling**](https://github.com/neoreuvenla/hyperion-datascience/tree/main/data%20handling)
     * [01 Lists and Dictionaries](https://github.com/neoreuvenla/hyperion-datascience/blob/main/data%20handling/01%20lists%20and%20dictionaries.py)
     * [02 Functions](https://github.com/neoreuvenla/hyperion-datascience/blob/main/data%20handling/02%20functions.py)
+    * [03 2D Lists](https://github.com/neoreuvenla/hyperion-data-sci/blob/main/data%20handling/03%202d%20lists.py)
+    * [04 Data Selection](https://github.com/neoreuvenla/hyperion-data-sci/blob/main/data%20handling/04%20data%20selection.ipynb)
+    * [05 Data Filtering](https://github.com/neoreuvenla/hyperion-data-sci/blob/main/data%20handling/05%20data%20filtering.ipynb)
